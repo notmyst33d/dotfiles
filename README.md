@@ -14,6 +14,7 @@ brightnessctl
 neovim
 mpv
 htop
+pavucontrol
 
 Optionally install OpenTabletDriver if you have a drawing tablet
 ```
