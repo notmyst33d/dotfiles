@@ -1,0 +1,21 @@
+{
+    "editor.formatOnSave": true,
+    "editor.insertSpaces": true,
+    "editor.tabSize": 4,
+    "editor.fontFamily": "JetBrains Mono",
+    "editor.fontSize": 20,
+    "editor.lineHeight": 1.5,
+    "terminal.integrated.fontSize": 16,
+    "editor.mouseWheelScrollSensitivity": 5,
+    "editor.glyphMargin": false,
+    "rust-analyzer.check.command": "clippy",
+    "svelte.enable-ts-plugin": true,
+    "terminal.integrated.stickyScroll.enabled": false,
+    "terminal.integrated.defaultProfile.linux": "bash",
+    "workbench.statusBar.visible": false,
+    "window.commandCenter": false,
+    "workbench.layoutControl.enabled": false,
+    "editor.minimap.enabled": false,
+    "clangd.checkUpdates": true,
+    "workbench.colorTheme": "Owokai"
+}
